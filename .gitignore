@@ -1,0 +1,22 @@
+
+# Python
+__pycache__/
+*.pyc
+
+# Workspace
+workspace/
+
+# Logs
+logs/
+
+# Temporary files
+*.json
+*.txt
+
+# Videos
+*.mp4
+
+# OS
+.DS_Store
+Thumbs.db
+
